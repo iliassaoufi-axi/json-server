@@ -1,0 +1,239 @@
+{
+    "quiz-data": {
+        "data": [
+            {
+                "question": "Quelle est la fonction qui compare les éléments des deux listes?",
+                "type_question": "CM",
+                "note_question": "None",
+                "answers": [
+                    {
+                        "id_answer": "szgb6p9luv",
+                        "answer": "cmp(list1, list2)"
+                    },
+                    {
+                        "id_answer": "04r0n2war8",
+                        "answer": "eq(list1, list2)"
+                    },
+                    {
+                        "id_answer": "x27mf9ac4x",
+                        "answer": "len(list1, list2)"
+                    },
+                    {
+                        "id_answer": "v3dax1b51c",
+                        "answer": "max(list1, list2)"
+                    }
+                ],
+                "help": {
+                    "message": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur            quidem ea maxime quasi harum suscipit perspiciatis ipsum cum neque            laborum dolorem delectus, sit explicabo eum vitae, inventore veniam            quaerat doloribus.",
+                    "link": "http://localhost:3000/learn/learning/1/1/2?source=lesson&product_type=parcours&parcours_id=1&cc_id=2&code_lien=5Xacg4tAyQBMfYPDOqyioTQlx"
+                }
+            },
+            {
+                "question": "Python est un langage",
+                "type_question": "RM",
+                "note_question": "None",
+                "answers": [
+                    {
+                        "id_answer": "qf45frdeef",
+                        "answer": "true 1"
+                    },
+                    {
+                        "id_answer": "vujl5379vk",
+                        "answer": "true 2"
+                    },
+                    {
+                        "id_answer": "br15430xac",
+                        "answer": "true 3"
+                    },
+                    {
+                        "id_answer": "niw08rb5n6",
+                        "answer": "false"
+                    }
+                ]
+            },
+            {
+                "question": " Les étapes du développement d’un logiciel?",
+                "type_question": "SA",
+                "note_question": "None",
+                "answers": [
+                    {
+                        "id_answer": "hxk69gkp6x",
+                        "answer": "Le développement logiciel"
+                    },
+                    {
+                        "id_answer": "6ucva37vgj",
+                        "answer": "La planification"
+                    },
+                    {
+                        "id_answer": "lmzsgxskbw",
+                        "answer": "Le déploiement"
+                    },
+                    {
+                        "id_answer": "6ddqjhqm1i",
+                        "answer": "Le design et le prototypage"
+                    }
+                ]
+            },
+            {
+                "question": "Qu'est-ce que la fonction lambda ?",
+                "type_question": "FB",
+                "note_question": "None",
+                "answers": [
+                    {
+                        "id_answer": "74z4t6mki0",
+                        "answer": "Les fonctions lambda sont de petites fonctions {@input @}  en Python. Il a des expressions uniques et accepte  {@ select | 1 | 2 |plusieurs @}   arguments."
+                    }
+                ]
+            },
+            {
+                "question": "Ou` est Dung ?",
+                "type_question": "RC",
+                "note_question": "None",
+                "answers": "None"
+            },
+            {
+                "question": "Python est-il un langage à typage statique ou à typage dynamique ?",
+                "type_question": "CA",
+                "note_question": "None",
+                "answers": [
+                    {
+                        "id_answer": "dp3euiwb0t",
+                        "answer": "dynamique  ."
+                    },
+                    {
+                        "id_answer": "omjrjlvt54",
+                        "answer": "un langage"
+                    },
+                    {
+                        "id_answer": "grm3bjxzkk",
+                        "answer": "à typage"
+                    },
+                    {
+                        "id_answer": "309c01lrkj",
+                        "answer": "Python est "
+                    }
+                ]
+            },
+            {
+                "question": "Quelle est la fonction qui compare les éléments des deux listes?",
+                "type_question": "CM",
+                "note_question": "None",
+                "answers": [
+                    {
+                        "id_answer": "szgb6p9luv",
+                        "answer": "cmp(list1, list2)"
+                    },
+                    {
+                        "id_answer": "04r0n2war8",
+                        "answer": "eq(list1, list2)"
+                    },
+                    {
+                        "id_answer": "x27mf9ac4x",
+                        "answer": "len(list1, list2)"
+                    },
+                    {
+                        "id_answer": "v3dax1b51c",
+                        "answer": "max(list1, list2)"
+                    }
+                ],
+                "media": [
+                    {
+                        "media_type": "image",
+                        "media_src": "https://blablanegocios.com/wp-content/uploads/sites/2/2017/03/DATA-SCIENCE-QU%C3%89-ES-2.jpg"
+                    }
+                ]
+            },
+            {
+                "question": "Quelle est la fonction qui compare les éléments des deux listes?",
+                "type_question": "CM",
+                "note_question": "None",
+                "answers": [
+                    {
+                        "id_answer": "szgb6p9luv",
+                        "answer": "cmp(list1, list2)"
+                    },
+                    {
+                        "id_answer": "04r0n2war8",
+                        "answer": "eq(list1, list2)"
+                    },
+                    {
+                        "id_answer": "x27mf9ac4x",
+                        "answer": "len(list1, list2)"
+                    },
+                    {
+                        "id_answer": "v3dax1b51c",
+                        "answer": "max(list1, list2)"
+                    }
+                ],
+                "media": [
+                    {
+                        "media_type": "image",
+                        "media_src": "https://blablanegocios.com/wp-content/uploads/sites/2/2017/03/DATA-SCIENCE-QU%C3%89-ES-2.jpg"
+                    },
+                    {
+                        "media_type": "audio",
+                        "media_src": "https://cdn.plyr.io/static/demo/Kishi_Bashi_-_It_All_Began_With_a_Burst.mp3"
+                    }
+                ]
+            },
+            {
+                "question": "Quelle est la fonction qui compare les éléments des deux listes?",
+                "type_question": "CM",
+                "note_question": "None",
+                "answers": [
+                    {
+                        "id_answer": "szgb6p9luv",
+                        "answer": "cmp(list1, list2)"
+                    },
+                    {
+                        "id_answer": "04r0n2war8",
+                        "answer": "eq(list1, list2)"
+                    },
+                    {
+                        "id_answer": "x27mf9ac4x",
+                        "answer": "len(list1, list2)"
+                    },
+                    {
+                        "id_answer": "v3dax1b51c",
+                        "answer": "max(list1, list2)"
+                    }
+                ],
+                "media": [
+                    {
+                        "media_type": "video",
+                        "media_src": "https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-720p.mp4"
+                    }
+                ]
+            },
+            {
+                "question": "Quelle est la fonction qui compare les éléments des deux listes?",
+                "type_question": "CM",
+                "note_question": "None",
+                "answers": [
+                    {
+                        "id_answer": "szgb6p9luv",
+                        "answer": "cmp(list1, list2)"
+                    },
+                    {
+                        "id_answer": "04r0n2war8",
+                        "answer": "eq(list1, list2)"
+                    },
+                    {
+                        "id_answer": "x27mf9ac4x",
+                        "answer": "len(list1, list2)"
+                    },
+                    {
+                        "id_answer": "v3dax1b51c",
+                        "answer": "max(list1, list2)"
+                    }
+                ],
+                "media": [
+                    {
+                        "media_type": "youtube",
+                        "media_src": "https://www.youtube.com/watch?v=R7ie2x1oiDk"
+                    }
+                ]
+            }
+        ]
+    }
+}
